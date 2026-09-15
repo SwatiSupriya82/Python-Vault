@@ -78,6 +78,5 @@ Duel Strife is a simple 2-player fighting game built with Python and Pygame. Pla
 ## Technical Overview
 
 - *Language:* Python
-- *Interface:* Command-Line Interface (CLI)
-- *Data Storage:* JSON
-- *Core Concepts:* Lists, Dictionaries, Functions, Loops, Conditionals, File Handling
+- *Interface:* Graphical User Interface (GUI)
+- *Library:* Pygame
