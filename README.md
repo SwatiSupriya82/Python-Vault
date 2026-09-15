@@ -1,5 +1,5 @@
 # Python-Vault
-#📚STUDY PAL
+# 📚STUDY PAL
  is a Python-based command-line study planner designed to help students organize their academic tasks and keep track of their study progress. It provides a simple way to create, manage, search, and complete tasks from one place.
 
 ## Key Features
