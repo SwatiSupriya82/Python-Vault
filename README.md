@@ -1,6 +1,6 @@
 # Python-Vault
 # 📚STUDY PAL
- is a Python-based command-line study planner designed to help students organize their academic tasks and keep track of their study progress. It provides a simple way to create, manage, search, and complete tasks from one place.
+ Study Pal is a Python-based command-line study planner designed to help students organize their academic tasks and keep track of their study progress. It provides a simple way to create, manage, search, and complete tasks from one place.
 
 ## Key Features
 
@@ -34,7 +34,7 @@ When the program starts, users are presented with a menu containing the availabl
 
 Task information is organized using Python data structures and saved in a JSON file. This allows the tasks to remain available even after the program is closed and opened again.
 
-# 🥷🏻Duel Strife
+# 🥷🏻DUEL STRIFE
 
 Duel Strife is a simple 2-player fighting game built with Python and Pygame. Players can move, jump, attack, and compete in a timed round with health-based winning conditions.
 
