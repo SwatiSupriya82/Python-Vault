@@ -34,6 +34,47 @@ When the program starts, users are presented with a menu containing the availabl
 
 Task information is organized using Python data structures and saved in a JSON file. This allows the tasks to remain available even after the program is closed and opened again.
 
+# 🥷🏻Duel Strife
+
+Duel Strife is a simple 2-player fighting game built with Python and Pygame. Players can move, jump, attack, and compete in a timed round with health-based winning conditions.
+
+## Features
+
+- 2-player gameplay
+- Player movement and jumping
+- Attack and damage system
+- Hit effect when an attack connects
+- Health bars for both players
+- 60-second round timer
+- Winner and draw detection
+- Restart option
+- Start screen
+- Custom character sprites
+- Custom game background
+
+## Controls
+
+### Player 1
+- A / D — Move left / right
+- W — Jump
+- F — Attack
+
+### Player 2
+- Left / Right Arrow — Move left / right
+- Up Arrow — Jump
+- Right Ctrl — Attack
+
+### Game
+- Enter — Start the game
+- R — Restart after the round ends
+
+## How to Run
+
+1. Install Python.
+2. Install Pygame:
+   ```bash
+   pip install pygame
+
 ## Technical Overview
 
 - *Language:* Python
